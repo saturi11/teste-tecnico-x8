@@ -38,7 +38,7 @@ Execute a aplicação Java:
 
 A aplicação estará acessível em http://localhost:8080.
 
-Endpoints da API
+## Endpoints da API
 
 GET /api/produtos: Recupera todos os produtos.
 
@@ -65,7 +65,7 @@ O projeto faz uso das seguintes tecnologias e ferramentas:
 
 *Docker Compose: O Docker Compose é usado para definir e executar vários contêineres como parte de uma única aplicação
 
-Variáveis de Ambiente
+## :scroll: Variáveis de Ambiente
 
 DATABASE_URL: URL de conexão com o banco de dados PostgreSQL.
 
