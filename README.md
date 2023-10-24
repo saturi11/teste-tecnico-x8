@@ -21,15 +21,19 @@ Os dados são persistidos em um volume Docker.
 Certifique-se de ter o Docker e as ferramentas de desenvolvimento Java instaladas em seu ambiente.
 
 Clone este repositório:
+
 git clone https://github.com/saturi11/teste-tecnico-x8.git
 
 Navegue até o diretório clonado:
+
 cd nome-do-repositorio
 
 Inicie os contêineres Docker com o Docker Compose:
+
 docker-compose up -d
 
 Execute a aplicação Java:
+
 ./mvnw spring-boot:run
 
 A aplicação estará acessível em http://localhost:8080.
