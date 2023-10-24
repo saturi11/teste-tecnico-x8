@@ -11,6 +11,7 @@ Utiliza o framework Jakarta Persistence (JPA) para mapear objetos Java para enti
 Exposta na porta 8080.
 
 Banco de Dados PostgreSQL (Docker):
+
 Utiliza a imagem oficial do PostgreSQL.
 Configurado para permitir conexões da aplicação Java.
 Os dados são persistidos em um volume Docker.
