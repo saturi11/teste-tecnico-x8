@@ -52,17 +52,17 @@ DELETE /api/produtos/{id}: Deleta um produto.
 ## 🛠️ Construído com
 O projeto faz uso das seguintes tecnologias e ferramentas:
 
-Java: A aplicação é desenvolvida em Java, uma linguagem de programação amplamente utilizada.
+*Java: A aplicação é desenvolvida em Java, uma linguagem de programação amplamente utilizada.
 
-Spring Boot: O framework Spring Boot é usado para simplificar o desenvolvimento de aplicativos Java.
+*Spring Boot: O framework Spring Boot é usado para simplificar o desenvolvimento de aplicativos Java.
 
-Jakarta Persistence (JPA): JPA é usado para mapear objetos Java para entidades de banco de dados.
+*Jakarta Persistence (JPA): JPA é usado para mapear objetos Java para entidades de banco de dados.
 
-Docker: O Docker é utilizado para criar e gerenciar contêineres, incluindo a execução de um banco de dados PostgreSQL em um contêiner.
+*Docker: O Docker é utilizado para criar e gerenciar contêineres, incluindo a execução de um banco de dados PostgreSQL em um contêiner.
 
-PostgreSQL: O banco de dados PostgreSQL é escolhido como o sistema de gerenciamento de banco de dados relacional.
+*PostgreSQL: O banco de dados PostgreSQL é escolhido como o sistema de gerenciamento de banco de dados relacional.
 
-Docker Compose: O Docker Compose é usado para definir e executar vários contêineres como parte de uma única aplicação
+*Docker Compose: O Docker Compose é usado para definir e executar vários contêineres como parte de uma única aplicação
 
 Variáveis de Ambiente
 
