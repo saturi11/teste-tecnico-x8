@@ -39,6 +39,7 @@ Execute a aplicação Java:
 A aplicação estará acessível em http://localhost:8080.
 
 Endpoints da API
+
 GET /api/produtos: Recupera todos os produtos.
 
 GET /api/produtos/{id}: Recupera um produto pelo ID.
