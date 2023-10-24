@@ -9,8 +9,8 @@ Aplicação Java (Spring Boot):
 Implementa as operações CRUD em produtos.
 Utiliza o framework Jakarta Persistence (JPA) para mapear objetos Java para entidades de banco de dados.
 Exposta na porta 8080.
-Banco de Dados PostgreSQL (Docker):
 
+Banco de Dados PostgreSQL (Docker):
 Utiliza a imagem oficial do PostgreSQL.
 Configurado para permitir conexões da aplicação Java.
 Os dados são persistidos em um volume Docker.
