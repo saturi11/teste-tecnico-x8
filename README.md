@@ -1,5 +1,5 @@
 # teste-tecnico-x8
-  Este é um projeto de exemplo que demonstra um aplicativo Java para realizar operações CRUD (Create, Read, Update, Delete) em produtos usando o framework Jakarta Persistence (JPA) e Spring Boot. O projeto também inclui um ambiente Docker com um banco de dados PostgreSQL.
+  Este projeto de exemplo demonstra uma aplicação Java para realizar operações CRUD (Create, Read, Update, Delete) em produtos usando o framework Jakarta Persistence (JPA) e Spring Boot. O projeto também inclui um ambiente Docker com um banco de dados PostgreSQL.
 
 ## 🚀Visão Geral
 Este projeto é composto por dois principais componentes:
