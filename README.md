@@ -73,7 +73,5 @@ DATABASE_USERNAME: Nome de usuário do banco de dados.
 
 DATABASE_PASSWORD: Senha do banco de dados.
 
-Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 ## ✒️ Autor
 * **Gabriel Saturi** - [[Gabriel Saturi](https://github.com/saturi11)]
